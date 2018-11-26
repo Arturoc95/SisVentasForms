@@ -1,0 +1,66 @@
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCategoria_Articulo.resources
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCategoria_Articulo.resources
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCategoria_Articulo.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmIngreso.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaArtculo_Ingreso.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaProveedor_Ingreso.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaArticulo_Venta.resources
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCliente_Venta.resources

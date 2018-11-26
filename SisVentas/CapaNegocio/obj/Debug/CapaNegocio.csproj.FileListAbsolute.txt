@@ -1,0 +1,26 @@
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb

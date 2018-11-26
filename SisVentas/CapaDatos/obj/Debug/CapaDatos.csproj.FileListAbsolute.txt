@@ -1,0 +1,18 @@
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+G:\ARTURITO\Practica Tecnologica\Final\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ARTURITO\Documents\AAARNEDO\SisVentas\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ANDREA\Documents\AAARNEDO\Practica Tecnologica\SisVentas\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
